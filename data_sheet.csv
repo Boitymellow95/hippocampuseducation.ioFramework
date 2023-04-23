@@ -1,0 +1,21 @@
+student,Q1,Q2,Q3,Q4,Q5,actual results,results after intervention,actual_Risk
+2483953,child,child,1,1,1,60,87,medium
+2270366,grandchild,child,1,1,1,60,86,medium
+2466429,1,child,1,1,1,80,93,low
+2487231,0,grandchild,grandchild,child,0,20,46,high
+2489211,child,granchild ,child ,1,1,40,77,high
+2455304,,grandchild,0,0,grandchild,60,87,medium
+1849534,child,grandchild,0,1,1,40,67,high
+2483688,1,granchild ,1,1,1,80,97,low
+2466429,explaon,child,1,grandchild,grandchild,20,73,high
+2328014,grandchild,grandchild,0,0,0,0,23,high
+2246349,lecture,granchild ,grandchild,1,1,40,59,high
+16038406,grandchild,child,1,1,child,40,73,high
+2429308,child,0,1,child,1,60,87,medium
+2443377,1,grandchild,1,1,1,80,91,low
+2431096,0,0,0,0,1,20,57,high
+2242332,1,granchild ,grandchild,0,1,40,71,high
+2443532,1,child,1,1,1,80,93,low
+2344567,1,child,child ,1,1,60,87,medium
+2134765,1,child,grandchild,1,1,60,80,medium
+2347859,1,1,,child,1,80,93,low
