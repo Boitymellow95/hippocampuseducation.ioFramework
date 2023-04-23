@@ -1,4 +1,4 @@
-student,Q1,Q2,Q3,Q4,Q5,actual results,results after intervention,actual_Risk
+student,Q1,Q2,Q3,Q4,Q5,actual_results,results after intervention,actual_Risk
 2483953,child,child,1,1,1,60,87,medium
 2270366,grandchild,child,1,1,1,60,86,medium
 2466429,1,child,1,1,1,80,93,low
